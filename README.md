@@ -1,13 +1,13 @@
-## Welcome to My GitHub Pages
+# Welcome to My GitHub Pages
 
 
 Please find below links to projects I have worked on during my free time!
 
 
 ## Python Projects
-[Click to go to python projects](https://github.com/mina-naghavi/python-projects)
+Click [here](https://github.com/mina-naghavi/python-projects) to go to python projects
 
-# Java Projects
+## Java Projects
 
 
 ### Support or Contact
