@@ -1,17 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mina-naghavi/mina-naghavi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please find below ling to projects I have worked on during my free time!
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Python Projects
+https://github.com/mina-naghavi/python-projects
+
+# Java Projects
 ## Header 2
 ### Header 3
 
