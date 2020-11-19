@@ -3,10 +3,8 @@
 
 Please find below links to projects I have worked on during my free time!
 
-```markdown
-Syntax highlighted code block
 
-# Python Projects
+## Python Projects
 [Click to go to python projects](https://github.com/mina-naghavi/python-projects)
 
 # Java Projects
