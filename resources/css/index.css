@@ -3,13 +3,16 @@ h1 {
 	
    	color: #000;
   	text-align: center;
+	position: relative;
 	top: 50px;
 	
 }
 
-h2{
-   color: #000;
-   text-align: center;
+h2 {
+   	color: #000;
+   	text-align: center;
+	position: relative;
+	top: 50px;
 }
 
 ul {
@@ -18,7 +21,7 @@ ul {
   padding: 100;
   overflow: hidden;
   background-color: #FF0055;
-  position:absolute;
+  position:relative;
   top: 200px;
   left: 200px;
 }
