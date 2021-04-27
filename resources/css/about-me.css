@@ -88,10 +88,10 @@ li a:hover {
 }
 
 .linkedin {
-	text-align: right;
+	text-align: left;
 	position:relative;
-	bottom: 130px;
-	right: 500px;
+	bottom: 70px;
+	right: 800px;
 }
 
 
