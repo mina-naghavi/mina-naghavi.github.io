@@ -81,6 +81,7 @@ li a:hover {
 }
 
 #active {
+	color: #FFF;
 	background-color: #13CF;
 	padding: 14px 16px;
 	font-size: 18px;	
