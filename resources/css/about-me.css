@@ -26,20 +26,12 @@ h1 {
 	
 }
 
-h2 {
-   	color: #000;
-   	text-align: center;
-	position: relative;
-	bottom: 150px;
-	font-size: 35px;
-	font-style: oblique;
-}
 
 p {
    	color: #000;
-   	text-align: center;
+   	text-align: left;
 	position: relative;
-	bottom: 150px;
+	bottom: 120px;
 	font-size: 25px;
 	font-style: oblique;
 }
@@ -89,9 +81,17 @@ li a:hover {
 }
 
 .email {
-	text-align: center;
+	text-align: left;
 	position:relative;
 	bottom: 100px;
+	left: 500px;
+}
+
+.linkedin {
+	text-align: right;
+	position:relative;
+	bottom: 100px;
+	right: 500px;
 }
 
 
