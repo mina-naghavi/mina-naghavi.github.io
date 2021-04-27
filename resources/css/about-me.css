@@ -83,15 +83,15 @@ li a:hover {
 .email {
 	text-align: left;
 	position:relative;
-	bottom: 70px;
-	left: 500px;
+	bottom: 65px;
+	left: 600px;
 }
 
 .linkedin {
-	text-align: left;
+	text-align: right;
 	position:relative;
-	bottom: 70px;
-	right: 800px;
+	bottom: 165px;
+	right: 600px;
 }
 
 
