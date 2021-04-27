@@ -1,5 +1,5 @@
 .split {
-	height: 75%;
+	height: 72.5%;
 	width: 100%;
 	position: fixed;
 }
@@ -16,6 +16,7 @@ h1 {
   	text-align: center;
 	position: relative;
 	top: 50px;
+	font-size: 55px;
 	
 }
 
@@ -29,9 +30,9 @@ h2 {
 ul {
  	list-style-type: none;
   	margin: 50;
-  	padding: 100;
+  	padding: 0;
   	overflow: hidden;
-  	background-color: #FF0055;
+  	background-color: #FFF;
   	position:absolute;
   	top: 200px;
 	left:550px;
@@ -44,19 +45,21 @@ li {
 
 li a {
   	display: block;
-  	color: #FFF;
+  	color: #000;
   	text-align: center;
   	padding: 14px 16px;
   	text-decoration: none;
+	font-size: 18px;
 }
 
 li a:hover {
-  	background-color: #000250;
+  	background-color: #13cfed;
 }
 
 #active {
 	background-color: #FFF;
 	padding: 14px 16px;
+	font-size: 18px;
 }
 
 
