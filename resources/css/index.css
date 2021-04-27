@@ -1,8 +1,14 @@
-#blue-section{
-	background-color: #14c3e6
+.split {
+	height: 75%;
+	width: 100%;
+	position: fixed;
 }
 
-
+.top {
+	top: 0;
+	left: 0;
+	background-color: #13cfed;
+}
 
 h1 {
 	
