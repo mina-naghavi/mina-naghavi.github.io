@@ -28,14 +28,14 @@ h2 {
    	color: #000;
    	text-align: left;
 	position: relative;
-	top: 50px;
+	bottom: 150px;
 }
 
 p {
    	color: #000;
    	text-align: left;
 	position: relative;
-	top: 50px;
+	bottom: 150px;
 }
 
 .navbar {
