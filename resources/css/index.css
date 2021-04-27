@@ -21,8 +21,9 @@ ul {
   	padding: 100;
   	overflow: hidden;
   	background-color: #FF0055;
-  	position:relative;
+  	position:absolute;
   	top: 200px;
+	left:550px;
 }
 
 li {
