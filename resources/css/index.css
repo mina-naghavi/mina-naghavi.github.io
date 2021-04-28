@@ -21,7 +21,7 @@ h1 {
 	font-size: 55px;
 	font-family: Lucida Handwriting;
   	font-weight: bold;
-	margin-top: 8%;
+	margin-top: 6%;
 	
 }
 
@@ -50,7 +50,7 @@ ul {
  	list-style-type: none;
   	overflow: hidden;
   	background-color: #FFF;	
-  	margin-top: 5%;
+  	margin-top: 4%;
   	margin-left: 25%;
   	margin-right: 25%;
 }
@@ -85,9 +85,7 @@ li a:hover {
 
 .github-logo {
 	text-align: center;
-	margin-top: auto;
-  	margin-left: auto;
-	margin-bottom: 10%;
+	margin-bottom: 30%;
 }
 
 
